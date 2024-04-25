@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T15:21:25.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.0" etag="Ptlw4msDVPcbC9ChdNsQ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T15:28:58.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="M0WqX_Ut30yl5uJlL81w" version="24.3.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,27 @@
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-36" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LAKUzHmHQirwp43c1PdW-18" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="300" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="LAKUzHmHQirwp43c1PdW-19" value="你好" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="230" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="LAKUzHmHQirwp43c1PdW-23" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;开始入网&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="LAKUzHmHQirwp43c1PdW-19">
+          <mxGeometry x="40" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LAKUzHmHQirwp43c1PdW-20" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="620" width="150" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="LAKUzHmHQirwp43c1PdW-26" value="&lt;h6&gt;验证身份信息等等的呢感动呢个等等操作&lt;/h6&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="LAKUzHmHQirwp43c1PdW-20">
+          <mxGeometry x="30" y="50" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LAKUzHmHQirwp43c1PdW-21" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="620" width="120" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="LAKUzHmHQirwp43c1PdW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LAKUzHmHQirwp43c1PdW-23" target="LAKUzHmHQirwp43c1PdW-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
